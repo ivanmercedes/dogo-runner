@@ -11,10 +11,13 @@ Juego html5 con javascript y canvas
 ## Como instalar 🚀
 `git clone https://github.com/ivanmercedes/dogo-runner.git
 `
+<br>
 `cd dogo-runner
 `
+<br>
 ` npm i
 `
+<br>
 `npm run dev
 `
 
